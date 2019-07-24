@@ -1263,7 +1263,7 @@ translator slung around his neck." CR>)
 	 <COND (<AND <VERB? EXAMINE>
 		     <EQUAL? .RARG ,M-OBJECT>>
 		<TELL
-"The safety webbing fills most of the pod. It could accomodate
+"The safety webbing fills most of the pod. It could accommodate
 from one to, perhaps, twenty people." CR>)
 	       (<AND <VERB? TAKE>
 		     <EQUAL? .RARG ,M-OBJECT>>
