@@ -358,7 +358,7 @@
 		 "You can't."
 		 "Really!">
 	"PROJCON AND LAB"
-	<PLTABLE "What is the signficance of SanFac F?"
+	<PLTABLE "What is the significance of SanFac F?"
 		 "Haven't you realized by now that these SanFacs are of no interest?">
 	<PLTABLE "What about the ProjCon Office?"
 		 "The library might be of some help."
