@@ -838,7 +838,7 @@ and told me that diaries were against regulations. But I'll be frobbed if
 I'm going to stop. I've started hiding the diary inside my official documents
 file, and I keep that hidden in the air duct. From now on I'll have to sneak
 away somewhere to use it."
-	 "Bozbar 27 -- Greeting from the Deck Four Supply Closet of the
+	 "Bozbar 27 -- Greetings from the Deck Four Supply Closet of the
 S.P.S. Feinstein. I hope I'm not tempting fate, sneaking around with my diary
 this way. I used to be as much of a disbeliever in destiny as the next guy,
 but not anymore. Not since the time my mom warned my dad not to tempt fate
@@ -849,7 +849,7 @@ SUMMER HE WENT WALKING AT NIGHT ON THE PLAINS AND STUMBLED OVER A CRATER AND
 BRUISED HIS KNEE! Gosh!"
 	 "Bozbar 28 -- We entered planetary orbit today, a non-human
 world called Accardi-3 (although the natives call it something like
-Blow'k-bibben-gordo). They're not officially part of the union. The rumors
+Blow'k-bibben-Gordo). They're not officially part of the union. The rumors
 say that we're picking up a special ambassador to take back to Tremain for
 negotiations on joining the union. Tomorrow we have to put on our dress
 uniforms for some special welcoming ceremony."
