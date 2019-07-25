@@ -882,7 +882,7 @@ archaeologists back on Varshon think it might have been part of the Second
 Union. I can't imagine why anyone would settle out here in this remote
 corner of the galaxy."
 	 "Septem 5 -- That krip has done it again! I missed two little
-pellets of trot when I was when I was cleaning out the grotch cages yesterday,
+pellets of trot when I was cleaning out the grotch cages yesterday,
 and Blather gave me 100 demerits and assigned me two extra shifts of deck
 scrubbing -- including Deck Nine, the filthiest deck on the ship! I'm
 considering asking for a transfer -- or if things get worse, I might even
