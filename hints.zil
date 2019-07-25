@@ -344,7 +344,7 @@
 		 "Put the good bedistor into the cube.">
 	<PLTABLE "Why is this Physical Plant so big?"
 		 "True, this plant is larger than its counterpart in the Kalamontee Complex, even though the Lawanda Complex is slightly smaller."
-		 "Perhaps there is a large section of the Lawanda Compex that you haven't seen yet..."
+		 "Perhaps there is a large section of the Lawanda Complex that you haven't seen yet..."
 		 "...such as the cryo-chambers, buried deep underground.">
 	<PLTABLE "How do I use the computer terminal?"
 		 "Firstly, turn it on."
