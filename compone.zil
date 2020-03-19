@@ -366,7 +366,7 @@ deserted now. There are openings at the north and south ends of the room.")
       (LDESC
 "This must be the sanitary facility for the adjacent dormitory. The fixtures
 are dry and dusty, the room dead and deserted. You marvel at how little the
-millenia and cultural gulfs have changed toilet bowl design. The only exit is
+millennia and cultural gulfs have changed toilet bowl design. The only exit is
 north.")
       (C-MOVE  <TABLE
          ;"OUT" 0 ;"IN"   0 ;"DOWN" 0  ;"UP"     0
@@ -400,7 +400,7 @@ deserted now. There are openings at the north and south ends of the room.")
       (LDESC
 "This must be the sanitary facility for the adjacent dormitory. The fixtures
 are dry and dusty, the room dead and deserted. You marvel at how little the
-millenia and cultural gulfs have changed toilet bowl design. The only exit is
+millennia and cultural gulfs have changed toilet bowl design. The only exit is
 south.")
       (C-MOVE  <TABLE
          ;"OUT" 0 ;"IN"   0 ;"DOWN" 0  ;"UP"     0
@@ -434,7 +434,7 @@ deserted now. There are openings at the north and south ends of the room.")
       (LDESC
 "This must be the sanitary facility for the adjacent dormitory. The fixtures
 are dry and dusty, the room dead and deserted. You marvel at how little the
-millenia and cultural gulfs have changed toilet bowl design. The only exit is
+millennia and cultural gulfs have changed toilet bowl design. The only exit is
 north.")
       (C-MOVE  <TABLE
          ;"OUT" 0 ;"IN"   0 ;"DOWN" 0  ;"UP"     0
@@ -468,7 +468,7 @@ deserted now. There are openings at the north and south ends of the room.")
       (LDESC
 "This must be the sanitary facility for the adjacent dormitory. The fixtures
 are dry and dusty, the room dead and deserted. You marvel at how little the
-millenia and cultural gulfs have changed toilet bowl design. The only exit is
+millennia and cultural gulfs have changed toilet bowl design. The only exit is
 south.")
       (C-MOVE  <TABLE
          ;"OUT" 0 ;"IN"   0 ;"DOWN" 0  ;"UP"     0

@@ -838,7 +838,7 @@ and told me that diaries were against regulations. But I'll be frobbed if
 I'm going to stop. I've started hiding the diary inside my official documents
 file, and I keep that hidden in the air duct. From now on I'll have to sneak
 away somewhere to use it."
-	 "Bozbar 27 -- Greeting from the Deck Four Supply Closet of the
+	 "Bozbar 27 -- Greetings from the Deck Four Supply Closet of the
 S.P.S. Feinstein. I hope I'm not tempting fate, sneaking around with my diary
 this way. I used to be as much of a disbeliever in destiny as the next guy,
 but not anymore. Not since the time my mom warned my dad not to tempt fate
@@ -849,7 +849,7 @@ SUMMER HE WENT WALKING AT NIGHT ON THE PLAINS AND STUMBLED OVER A CRATER AND
 BRUISED HIS KNEE! Gosh!"
 	 "Bozbar 28 -- We entered planetary orbit today, a non-human
 world called Accardi-3 (although the natives call it something like
-Blow'k-bibben-gordo). They're not officially part of the union. The rumors
+Blow'k-bibben-Gordo). They're not officially part of the union. The rumors
 say that we're picking up a special ambassador to take back to Tremain for
 negotiations on joining the union. Tomorrow we have to put on our dress
 uniforms for some special welcoming ceremony."
@@ -882,7 +882,7 @@ archaeologists back on Varshon think it might have been part of the Second
 Union. I can't imagine why anyone would settle out here in this remote
 corner of the galaxy."
 	 "Septem 5 -- That krip has done it again! I missed two little
-pellets of trot when I was when I was cleaning out the grotch cages yesterday,
+pellets of trot when I was cleaning out the grotch cages yesterday,
 and Blather gave me 100 demerits and assigned me two extra shifts of deck
 scrubbing -- including Deck Nine, the filthiest deck on the ship! I'm
 considering asking for a transfer -- or if things get worse, I might even
@@ -1263,7 +1263,7 @@ translator slung around his neck." CR>)
 	 <COND (<AND <VERB? EXAMINE>
 		     <EQUAL? .RARG ,M-OBJECT>>
 		<TELL
-"The safety webbing fills most of the pod. It could accomodate
+"The safety webbing fills most of the pod. It could accommodate
 from one to, perhaps, twenty people." CR>)
 	       (<AND <VERB? TAKE>
 		     <EQUAL? .RARG ,M-OBJECT>>
@@ -2986,7 +2986,7 @@ Planetfall, you blow it all in one amazingly dumb input.|
 |
 The doors close and the elevator rises quickly to the top of the shaft. The
 doors open, and the mutants, which were waiting impatiently in the ProjCon
-Office for just such an occurence, happily saunter in and begin munching.">)>>
+Office for just such an occurrence, happily saunter in and begin munching.">)>>
 
 <ROUTINE CASTLE-PSEUDO ()
 	 <COND (<VERB? EXAMINE>
