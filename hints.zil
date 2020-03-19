@@ -344,7 +344,7 @@
 		 "Put the good bedistor into the cube.">
 	<PLTABLE "Why is this Physical Plant so big?"
 		 "True, this plant is larger than its counterpart in the Kalamontee Complex, even though the Lawanda Complex is slightly smaller."
-		 "Perhaps there is a large section of the Lawanda Compex that you haven't seen yet..."
+		 "Perhaps there is a large section of the Lawanda Complex that you haven't seen yet..."
 		 "...such as the cryo-chambers, buried deep underground.">
 	<PLTABLE "How do I use the computer terminal?"
 		 "Firstly, turn it on."
@@ -358,7 +358,7 @@
 		 "You can't."
 		 "Really!">
 	"PROJCON AND LAB"
-	<PLTABLE "What is the signficance of SanFac F?"
+	<PLTABLE "What is the significance of SanFac F?"
 		 "Haven't you realized by now that these SanFacs are of no interest?">
 	<PLTABLE "What about the ProjCon Office?"
 		 "The library might be of some help."
