@@ -17,14 +17,14 @@ OFF!-INITIAL	;"makes debugging possible -- pdl"
 <DIRECTIONS ;"Do not change the order of the first 8 without consulting MARC!"
  	    NORTH NE EAST SE SOUTH SW WEST NW UP DOWN IN OUT>
 
-<INSERT-FILE "MISC" T>
-<INSERT-FILE "PARSER" T>
-<INSERT-FILE "SYNTAX" T>
-<INSERT-FILE "VERBS" T>
-<INSERT-FILE "GLOBALS" T>
-<INSERT-FILE "COMPONE" T>
-<INSERT-FILE "COMPTWO" T>
-<INSERT-FILE "HINTS" T>
+<INSERT-FILE "misc" T>
+<INSERT-FILE "parser" T>
+<INSERT-FILE "syntax" T>
+<INSERT-FILE "verbs" T>
+<INSERT-FILE "globals" T>
+<INSERT-FILE "compone" T>
+<INSERT-FILE "comptwo" T>
+<INSERT-FILE "hints" T>
 
 <PROPDEF SIZE 5>
 <PROPDEF CAPACITY 0>
